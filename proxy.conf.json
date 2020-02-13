@@ -1,0 +1,10 @@
+{
+    "/users/register": {
+      "target": "http://localhost:4000",
+      "secure": false
+    },
+    "/users/authenticate": {
+        "target": "http://localhost:4000",
+        "secure": false
+    }
+  }
